@@ -1,0 +1,11 @@
+MatchDate,MatchTime,Team1,Team2,Team1OddsInitial,Team2OddsInitial,Team1OddsFinal,Team2OddsFinal,Outcome
+1/1/2022,14:30,India,Australia,2,2.2,1.8,2.5,Team1
+1/1/2022,15:30,England,New Zealand,1.9,2.1,2,2,Team1
+1/2/2022,16:00,India,England,2.1,2.3,2.2,2.2,Team2
+1/2/2022,14:00,New Zealand,Australia,2,2.2,1.9,2.3,Team1
+1/3/2022,17:00,Australia,England,2.2,2,2.1,2.1,Team1
+1/3/2022,18:30,India,New Zealand,1.8,2.5,2,2,Team2
+1/4/2022,15:45,England,India,2.1,2.3,2.2,2.2,Team1
+1/4/2022,17:15,New Zealand,Australia,2,2.2,1.9,2.3,Team2
+1/5/2022,14:30,Australia,England,2.2,2,2.1,2.1,Team1
+1/5/2022,16:00,New Zealand,India,1.8,2.5,2,2,Team2
